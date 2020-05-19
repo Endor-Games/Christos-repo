@@ -1,2 +1,2 @@
-# Enter Game title here
+# Personal game title
 Read me test
